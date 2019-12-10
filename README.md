@@ -3,15 +3,15 @@
 # Windows
 
 ## Passo 1
-..* Acesse [https://www.mongodb.com/](https://www.mongodb.com/) e baixe a última versão do mongodb para windows
+* Acesse [https://www.mongodb.com/](https://www.mongodb.com/) e baixe a última versão do mongodb para windows
 
 ## Passo 2
-..* Acesse [https://nodejs.org/en/](https://nodejs.org/en/) e baixe a última versão do node LTS
+* Acesse [https://nodejs.org/en/](https://nodejs.org/en/) e baixe a última versão do node LTS
 
 ## Sugestão
-..* Acesse [https://cmder.net/](https://cmder.net/) e baixe a versão full que vem com git
+* Acesse [https://cmder.net/](https://cmder.net/) e baixe a versão full que vem com git
 **OU**
-..* Acesse [https://desktop.github.com/](https://desktop.github.com/) e baixe a versão do git para desktop
+* Acesse [https://desktop.github.com/](https://desktop.github.com/) e baixe a versão do git para desktop
 
 ## Passo 3
 * Acesse [https://code.visualstudio.com/](https://code.visualstudio.com/) e baixe o visual studio code (pode usar o sublime ou o atom)
